@@ -1,5 +1,5 @@
 title: Andrés C. Medina
-logo: /assets/img/front.png
+logo: ./assets/logo.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
