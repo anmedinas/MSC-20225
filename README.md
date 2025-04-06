@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://www.2e.cl/wp-content/uploads/2023/03/logo-pucv.png" alt="Logo Universidad" width="200"/>
+  <img src="https://www.2e.cl/wp-content/uploads/2023/03/logo-pucv.png" alt="Logo Universidad" width="300"/>
 </p>
 
 # Programación Avanzada
