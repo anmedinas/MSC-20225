@@ -2,15 +2,15 @@
 
 #### Skills: Python, SQL, AWS, R, MATLAB
 
-## Educacion
-- Master Simulación Computacional | Pontificia Universidad Católica de Valparaíso (_en curso_)	
-- Master en Data Science | Universidad de Chile (_Diciembre 2024_)							       		
-- Master en Gestión de Operaciones | Universidad de Chile (_Diciembre 2024_)	 			        		
-- Master en Economía Financiera | Universidad Santiago de Chile (_Agosto 2017_)
-- Ingeniero Estadístico | Universidad del Bio-Bio (_Enero 2010_)
+## Educación
+- Master en Simulación Computacional | PUCV (_en curso_)	
+- Master en Data Science | UChile (_Diciembre 2024_)							       		
+- Master en Gestión de Operaciones | Uchile (_Diciembre 2024_)	 			        		
+- Master en Economía Financiera | USACH (_Agosto 2017_)
+- Ingeniero Estadístico | UBB (_Enero 2010_)
 
 ## Experciencia Laboral 
-**Senior Data Scientist @ Mercadolibre (_Agosto 2023 - Enero 2025_)**
+**Senior Data Scientist Engineer @ Mercadolibre (_Agosto 2023 - Enero 2025_)**
 - Diseñé e implementé modelos de aprendizaje multimodal y redes neuronales convolucionales para clasificar imágenes y documentos de remuneración en
 Mercado Pago para optimizar aumentos de cupos.
 - Desarrollé modelos predictivos para identificar propensión de usuarios a adquirir productos financieros, optimizando estrategias de oferta personalizada.
