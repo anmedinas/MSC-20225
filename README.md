@@ -18,3 +18,7 @@ Este repositorio contiene material de apoyo para el curso de Programación Avanz
 | 2. `Git` y Control de Versiones | En progreso ... | 
 | 3. Operaciones con Tensores y Blinders en `Python` | En progreso ... |
 | 4. Analisis y Manipulacion de Datos con `Pandas`| En progreso ... |
+
+
+# Preview Página Personal ✨
+👉 [**Visualización Curriculum**](https://anmedinas.github.io/MSC-20225/)
