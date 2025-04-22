@@ -17,7 +17,7 @@ Este repositorio contiene material de apoyo para el curso de Programación Avanz
 | 1. Fundamentos de Programacion Avanzada   | [hw01](./Programacion_Avanzada/Unidad_01/) &#124; [hw02](./Programacion_Avanzada/Unidad_02/hw02/) &#124; [hw03](./Programacion_Avanzada/Unidad_02/hw03/)|
 | 2. `Git` y Control de Versiones | En progreso ... | 
 | 3. Operaciones con Tensores y Blinders en `Python` | En progreso ... |
-| 4. Analisis y Manipulacion de Datos con `Pandas`| En progreso ... |
+| 4. Análisis y Manipulación de Datos con `Pandas`| En progreso ... |
 
 
 # Preview Página Personal ✨
