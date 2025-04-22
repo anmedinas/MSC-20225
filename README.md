@@ -8,7 +8,7 @@
 
 # Resumen ☕
 
-Este repositorio contiene material de apoyo para el curso de Programación Avanzada del Magister en Simulación Computacional de la Pontificia Universidad Católica de Valparaíso (`PUCV`). El curso está orientado a la enseñanza de técnicas avanzadas de programación, incluyendo el uso de bibliotecas y herramientas modernas.
+Este repositorio contiene material de apoyo para el curso de `Programación Avanzada` del Magíster en Simulación Computacional de la Pontificia Universidad Católica de Valparaíso (`PUCV`). El curso está orientado a la enseñanza de técnicas avanzadas de programación, incluyendo el uso de bibliotecas y herramientas modernas.
 
 # Tabla de Contenidos 🎯
 
